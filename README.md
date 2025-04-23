@@ -27,7 +27,7 @@ Building scalable backend services and high-performance systems with Node.js and
 
 ## 🚀 Featured Projects
 
-### [API Gateway (C++)](https://github.com/yourusername/api-gateway)
+### [API Gateway (C++)](https://github.com/ahmedmiz/Reverse-Proxy)
 High-performance reverse proxy with advanced routing, security features, and WebSocket support.
 - Designed and implemented a high-performance API Gateway in modern C++ that handles
 1000+ requests/second.
@@ -44,7 +44,7 @@ extensible code.
 - Performance Enhancements – gzip compression, rate limiting.
 - [Detailed Architecture Documentation](https://github.com/ahmedmiz/Reverse-Proxy/blob/main/doc/architecture-documentation.md)
 
-### [Social Media API (Node.js)](https://github.com/yourusername/social-media-api)
+### [Social Media API (Node.js)](https://github.com/ahmedmiz/Social-Api)
 Complete backend for a social media platform with robust user management and real-time features.
 - User Management: JWT-based authentication, profile updates, friend requests,
 privacy settings.
