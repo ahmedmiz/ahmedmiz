@@ -11,7 +11,7 @@ Building scalable backend services and high-performance systems with Node.js and
 ## 🛠️ Technical Skills
 
 **Languages:** 
-- JavaScript/TypeScript, C++, SQL
+- JavaScript/TypeScript, C++, Python
 
 **Backend & Databases:**
 - Node.js, Express.js, MongoDB, MySQL
@@ -20,7 +20,7 @@ Building scalable backend services and high-performance systems with Node.js and
 - RESTful APIs, GraphQL, MVC, Microservices
 
 **Dev Tools & Practices:**
-- Docker, Git, CI/CD, Unit Testing (Mocha, Chai)
+- Docker, Git, CI/CD
 
 **Systems & Networks:**
 - Distributed Systems, Network Programming, Real-time Communication
